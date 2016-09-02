@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="counter_text_bg">#626262</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="blue">#2294C5</color>
+    <color name="grey">#E7E7E7</color>
+    <color name="red">#ff3300</color>
+    <color name="black">#000000</color>
+    <color name="dark_fade_green">#345953</color>
+    <color name="light_fade_green">#689a92</color>
+    <!--color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="validate_green">#63C522</color>
+    <color name="validate_red">#D51C1C</color>
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="blue">#2294C5</color>
+    <color name="grey">#E7E7E7</color>
+    <color name="red">#ff3300</color>
+    <color name="hashText">#2294c5</color>
+    <color name="tabSelected">#2294c5</color>
+    <color name="tabUnSelected">#155875</color>
+    <color name="tabSelectedText">#ffffff</color>
+    <color name="tabUnSelectedText">#999999</color-->
+</resources>
